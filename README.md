@@ -1,1 +1,1 @@
-https://www.tarunkatal.com/
+https://tarunkatal.vercel.app/
