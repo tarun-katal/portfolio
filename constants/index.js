@@ -21,59 +21,59 @@ export const LINKS = [
 ];
 
 export const HERO_CONTENT = {
-  greeting: "huh?",
+  greeting: "Namaskaram 🙏",
   introduction:
-    "PURRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+    "I do full stack development W/ Next.js & TS",
   description:
-    "FK you , ur mum, nd evrythn else............................................................",
+    "if u have a good cause, HMU",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+  resumeLink: "/outdated",
 };
 
 export const PROJECTS = [
   {
-    name: "Streamerzz",
+    name: "VIRTUAL STUDIO",
     description: "Live stream management tool for content creators",
     image: projects1,
-    link: "https://github.com/your-github/streamerzz",
+    link: "https://virtual-studio.vercel.app/",
   },
   {
     name: "NutriTrack",
     description: "Track your meals and calories with smart AI suggestions",
     image: projects2,
-    link: "https://github.com/your-github/nutritrack",
+    link: "https://virtual-studio.vercel.app/",
   },
   {
     name: "HairRevive",
     description: "A platform for hair regrowth solutions powered by science",
     image: projects3,
-    link: "https://github.com/your-github/hairrevive",
+    link: "https://virtual-studio.vercel.app/",
   },
   {
     name: "DevDeck",
     description:
       "Interactive dashboard for developers to track coding activity",
     image: projects4,
-    link: "https://github.com/your-github/devdeck",
+    link: "https://virtual-studio.vercel.app/",
   },
   {
     name: "FitConnect",
     description: "Fitness social network to connect athletes and trainers",
     image: projects5,
-    link: "https://github.com/your-github/fitconnect",
+    link: "https://virtual-studio.vercel.app/",
   },
   {
     name: "WellNest",
     description: "A wellness app for mental and physical health improvement",
     image: projects6,
-    link: "https://github.com/your-github/wellnest",
+    link: "https://virtual-studio.vercel.app/",
   },
 ];
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "WHATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
-    "DAAAAAAAAAAAAAAAAAA FOOOOKIN HELLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
+    "if u need someone at a junior role with strong understanding of all major frontend, backend and devops concepts",
+    "",
   ],
 };
 
@@ -129,28 +129,28 @@ export const TESTIMONIALS = [
     name: "Emily Davis",
     title: "Lead Designer, Amazon",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person3,
   },
   {
     name: "David Lee",
     title: "Senior Developer, Microsoft",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person4,
   },
   {
     name: "Laura Martinez",
     title: "CTO, Shopify",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person5,
   },
   {
     name: "Chris Brown",
     title: "Co-founder, Stripe",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person6,
   },
 ];
@@ -158,7 +158,7 @@ export const TESTIMONIALS = [
 export const CONTACT_CONTENT = {
   headline: "get in touch",
   description:
-    "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
   socialLinks: [
     {
       platform: "Twitter",
