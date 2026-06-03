@@ -21,8 +21,7 @@ export const LINKS = [
 ];
 
 export const HERO_CONTENT = {
-  greeting: "Namaskaram 🙏
-    ",
+  greeting: "Namaskaram  🙏",
   introduction:
     "I do full stack development W/ Next.js & TS",
   description:
