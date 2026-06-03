@@ -26,7 +26,11 @@ const Experience = () => {
                 <li >Kubernetes</li>
                 <li >AWS</li>
                 <li >Nextjs</li>
-                <li >ThreeJs</li>
+                <li >Express</li>
+                <li >Cloudflare</li>
+                <li >Redis</li>
+                <li >Prometheus</li>
+                <li >Git</li>
                 <li >Tailwind</li>
                 <li >MongoDB</li>
                 <li >PostgreSQL</li>
