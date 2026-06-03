@@ -21,11 +21,12 @@ export const LINKS = [
 ];
 
 export const HERO_CONTENT = {
-  greeting: "Namaskaram 🙏",
+  greeting: "Namaskaram 🙏
+    ",
   introduction:
     "I do full stack development W/ Next.js & TS",
   description:
-    "if u have a good cause, HMU",
+    "If u have a good cause, HMU",
   resumeLinkText: "Download Resume",
   resumeLink: "/outdated",
 };
@@ -33,7 +34,7 @@ export const HERO_CONTENT = {
 export const PROJECTS = [
   {
     name: "VIRTUAL STUDIO",
-    description: "Live stream management tool for content creators",
+    description: "Virtual Studio build tools for developers",
     image: projects1,
     link: "https://virtual-studio.vercel.app/",
   },
@@ -72,8 +73,10 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "if u need someone at a junior role with strong understanding of all major frontend, backend and devops concepts",
-    "",
+    "Graduation in Computer engg. from Thapar university",
+    "Strong understanding of all major frontend, backend and devops concepts ",
+    "Looking for junior/intern roles to build up work profile",
+    "Love is must, everything else can wait"
   ],
 };
 
@@ -115,14 +118,14 @@ export const TESTIMONIALS = [
     name: "Sarah Johnson",
     title: "Frontend Engineer, Google",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person1,
   },
   {
     name: "Michael Anderson",
     title: "Product Manager, Facebook",
     feedback:
-      "blah blah blah blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: person2,
   },
   {
