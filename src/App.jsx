@@ -32,7 +32,7 @@ const background = useTransform(
           position: "sticky",
           top: 0,
           width: "100%",
-          height: "3px",
+          height: "2px",
         }}
       />
     <BlurBackground/>
