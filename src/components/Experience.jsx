@@ -30,6 +30,7 @@ const Experience = () => {
                 <li >Cloudflare</li>
                 <li >Redis</li>
                 <li >Prometheus</li>
+                <li >Grafana</li>
                 <li >Git</li>
                 <li >Tailwind</li>
                 <li >MongoDB</li>
