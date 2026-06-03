@@ -72,10 +72,7 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "Graduation in Computer engg. from Thapar university",
-    "Strong understanding of all major frontend, backend and devops concepts ",
-    "Looking for junior/intern roles to build up work profile",
-    "Love is must, everything else can wait"
+    "After completing my Graduation in Computer engg. from Thapar university, I ve built deep understanding of all major frontend, backend and devops concepts, currently Im looking for junior/intern roles to build up work profile"
   ],
 };
 
@@ -158,7 +155,6 @@ export const TESTIMONIALS = [
 ];
 
 export const CONTACT_CONTENT = {
-  headline: "get in touch",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
   socialLinks: [
