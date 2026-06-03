@@ -10,7 +10,7 @@ const Experience = () => {
   return (
     <section className="px-6 py-10" id= "experience" >
       <h2 className="text-4xl md:text-6xl font-medium tracking-tight mb-10"> Tech Stack</h2>
-      <div className="h-1 w-20 bg-white"></div>
+      <div className="h-1 w-20 mb-8 bg-white"></div>
       <motion.div className="space-y-10 " initial="hidden" whileInView="visible" viewport={{once:true,amount:0.3}} variants={containerVariants}>
         <div className="flex justify-center items-center">
          
