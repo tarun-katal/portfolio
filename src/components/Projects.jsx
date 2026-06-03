@@ -9,6 +9,7 @@ const Projects = () => {
   return (
     <section className="px-6 py-10" id="work">
         <h1 className="text-4xl md:text-6xl tracking-tight mb-10 font-medium">Work</h1>
+        <h4 className="text-xl tracking-tight mb-10 font-medium">(these are just placeholders for later)</h4>
         <div className="h-1 w-20 bg-white mb-8"></div>
         <div className="grid grid-cols-1 md:grid-cols-6 gap-6">
             {PROJECTS.map((project,index)=>(
