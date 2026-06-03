@@ -19,13 +19,13 @@ const Hero = () => {
     <section>
         <div className="relative z-10 min-h-screen flex flex-wrap flex-col md:flex-row justify-center items-center text-white">
             <motion.div className="w-full md:w-1/2 p-8" initial="hidden" animate="visible" variants={containerVariants}>
-                <motion.h1 className="my=14 text-2xl md:text-3xl lg:text-5xl mb-4" variants={textVariants}>
+                <motion.h1 className="my=14 text-2xl md:text-3xl lg:text-5xl mb-8" variants={textVariants}>
                     {HERO_CONTENT.greeting}
                 </motion.h1>
                 <motion.p className="text-xl md:text-2xl lg:text-3xl mb-2" variants={textVariants}>
                     {HERO_CONTENT.introduction}
                 </motion.p>
-                <motion.p className="text-xl md:text-2xl lg:text-3xl " variants={textVariants}>
+                <motion.p className="text-xl md:text-2xl lg:text-3xl mb-6 " variants={textVariants}>
                     {HERO_CONTENT.description}
                 </motion.p>
                 <motion.a className="bg-stone-50 text-stone-900 p-3 lg:p-4 mt-8 inline-block rounded-2xl" href={HERO_CONTENT.resumeLink} download rel="noopener norefferer" target="_blank" variants={textVariants}>
