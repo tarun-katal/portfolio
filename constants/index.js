@@ -159,14 +159,14 @@ export const CONTACT_CONTENT = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
   socialLinks: [
     {
-      platform: "Twitter",
-      url: "https://twitter.com/tho8less",
+      platform: "X",
+      url: "https://x.com/tarun0_o",
       ariaLabel: "Follow me on Twitter",
       icon: "RiTwitterXFill",
     },
     {
       platform: "GitHub",
-      url: "https://github.com/tarunkatal",
+      url: "https://github.com/tarun-katal",
       ariaLabel: "View my GitHub profile",
       icon: "RiGithubFill",
     },
