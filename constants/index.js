@@ -72,7 +72,7 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "After completing my Graduation in Computer engg. from Thapar university, I ve built deep understanding of all major frontend, backend and devops concepts, currently Im looking for junior/intern roles to build up work profile"
+    "ffffffffffffffffffff ffffffffffffffffffffffffffff fffffffffffffffffffffffffff ffffffffffffffffffffffffffffff fffffffffffffffffff"
   ],
 };
 
